@@ -4,7 +4,6 @@
 - 📚 Cursando superior de Tecnologia em Análise e Desenvolvimento de Sistemas - IFRS
 - 🌱 Estudando html, css e js
 - 📫 Entre em contato comigo: milena_henrii@hotmail.com
-- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/milenahenriques">
